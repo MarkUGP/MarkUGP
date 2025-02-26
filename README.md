@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 👨‍🔬: Licenciatura en QFB
-:computer: Aprendiendo programacíon
-:drug: Mestría en Farmacología
-:computer: Expeimentos in silico
+💻: Aprendiendo programacíon
+⚕️: Mestría en Farmacología
+🖥️: Expeimentos in silico
 
 ### Vias de contanto
 ![email](mgonzalezp014@galumno.uaemex.mx)
